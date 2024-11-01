@@ -1,0 +1,123 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: shipcost with googlemap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-20 02:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/shipcost-with-googlemap"
+msgstr ""
+
+#. Author of the plugin
+msgid "nekoto"
+msgstr ""
+
+#. Name of the plugin
+msgid "shipcost with googlemap"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a plugin which can calculate price by input starting point and "
+"endpoint on googlemap you can decide how to use it by yourself"
+msgstr ""
+
+msgid ""
+"開啟教學"
+msgstr ""
+
+msgid ""
+"先輸入運送起始點"
+msgstr ""
+
+msgid ""
+"再輸入運送目的地"
+msgstr ""
+
+msgid ""
+"您此趟運送所需的費用"
+msgstr ""
+
+msgid ""
+"輸入起始地點"
+msgstr ""
+
+msgid ""
+"輸入結束地點"
+msgstr ""
+
+msgid ""
+"估計運送價格"
+msgstr ""
+
+msgid ""
+"起始地點"
+msgstr ""
+
+msgid ""
+"結束地點"
+msgstr ""
+
+msgid ""
+"費用"
+msgstr ""
+
+msgid ""
+"姓名"
+msgstr ""
+
+msgid ""
+"手機"
+msgstr ""
+
+msgid ""
+"送出訂單"
+msgstr ""
+
+msgid ""
+"若有需求請填寫資料下訂"
+msgstr ""
+
+msgid ""
+"元"
+msgstr ""
+
+msgid ""
+"您目前的位置"
+msgstr ""
+
+msgid ""
+"姓名及電話不可留空!"
+msgstr ""
+
+msgid ""
+"請先選擇路徑"
+msgstr ""
+
+msgid ""
+"處理失敗"
+msgstr ""
+
+msgid ""
+"處理成功"
+msgstr ""
+
+
+
+
+
+
+
+
+
